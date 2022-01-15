@@ -23,12 +23,12 @@ h1 {
     font-size: 52px;
     margin: 0;
 }
-.font-size{
-    font-size: 24px;
-}
 p {
     font-size: 16px;
     margin: 0;
+}
+.font-size{
+    font-size: 24px;
 }
 .button {
     background-color: #E02C6D;
@@ -51,7 +51,7 @@ p {
   /* heading-section-style  */
 
 header h2 {
-    font-size: 28px;
+    font-size: 32px;
     font-family: 'Ubuntu', sans-serif;
     margin: 0;
     margin-left:30px;
@@ -101,6 +101,7 @@ header h2 {
 .products-collection>h2 {
     font-family: 'Ubuntu', sans-serif;
     margin: 5% 0;
+    font-size: 30px;
     text-align: center;
 }
 
@@ -151,11 +152,12 @@ header h2 {
     margin-right: 5px;
 }
 
-.arro-style {
+.arrow-style {
     color: #E02C6D;
 }
 /* premium section  */
 .premium{
+    margin:0;
     display: flex;
     align-items: center;
 }
